@@ -1,7 +1,30 @@
+/* --light-blue: #a8d5e2ff;
+--bright-yellow-crayola: #f9a620ff;
+--mustard: #ffd449ff;
+--maximum-green: #548c2fff;
+--forest-green-traditional: #104911ff; */
+
+
+
+
+header p{
+    margin: 40px;
+    background-color: #104911;
+    text-align: center;
+    font-size: 50px;
+    color: #f9a620;
+}
+
+body{
+    background-color: #a8d5e2;
+}
+
 p{
+    margin: 40px;
     font-size: 24px;
 }
 
 h1,h2,h3{
+    margin: 40px;
     text-align: center;
 }
